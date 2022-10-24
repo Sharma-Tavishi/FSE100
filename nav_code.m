@@ -1,4 +1,4 @@
-%%% Navigation Code
+%% Navigation Code
 
 %--Auto_ULTRASONIC SENSOR
                 if(turnCounter == 1 && turnBuffer >= 1)
